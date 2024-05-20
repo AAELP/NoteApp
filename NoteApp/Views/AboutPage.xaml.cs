@@ -1,4 +1,4 @@
-namespace NoteApp;
+namespace NoteApp.Views;
 
 public partial class AboutPage : ContentPage
 {

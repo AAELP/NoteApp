@@ -1,5 +1,4 @@
-namespace NoteApp;
-
+namespace NoteApp.Views;
 public partial class NotePage : ContentPage
 {
     string _fileName = Path.Combine(FileSystem.AppDataDirectory, "notes.txt");
