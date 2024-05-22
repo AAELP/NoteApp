@@ -6,7 +6,7 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            Routing.RegisterRoute(nameof(Views.NotePage), typeof(Views.NotePage));
         }
     }
 }
