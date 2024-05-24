@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace NoteApp
+namespace Notes
 {
     public class Program
     {

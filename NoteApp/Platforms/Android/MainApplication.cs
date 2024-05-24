@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace NoteApp
+namespace Notes
 {
     [Application]
     public class MainApplication : MauiApplication
